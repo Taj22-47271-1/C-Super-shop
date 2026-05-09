@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SuperShopManagement\\SuperShopManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|f:\\supershopmanagement\\supershopmanagement\\supershopmanagement\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|solutionrelative:supershopmanagement\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|F:\\SuperShopManagement\\SuperShopManagement\\supershopmanagement\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|solutionrelative:supershopmanagement\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|F:\\SuperShopManagement\\SuperShopManagement\\supershopmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|solutionrelative:supershopmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|F:\\SuperShopManagement\\SuperShopManagement\\supershopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E39201F-36F8-4465-BDA5-94F38EEE94FB}|SuperShopManagement\\SuperShopManagement.csproj|solutionrelative:supershopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillingForm.cs",
+              "DocumentMoniker": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\BillingForm.cs",
+              "RelativeDocumentMoniker": "SuperShopManagement\\BillingForm.cs",
+              "ToolTip": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\BillingForm.cs",
+              "RelativeToolTip": "SuperShopManagement\\BillingForm.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAkwHsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:24:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "SuperShopManagement\\DatabaseHelper.cs",
+              "ToolTip": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\DatabaseHelper.cs",
+              "RelativeToolTip": "SuperShopManagement\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:46:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SuperShopManagement\\LoginForm.cs",
+              "ToolTip": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\LoginForm.cs",
+              "RelativeToolTip": "SuperShopManagement\\LoginForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:22:12.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SuperShopManagement\\Program.cs",
+              "ToolTip": "F:\\SuperShopManagement\\SuperShopManagement\\SuperShopManagement\\Program.cs",
+              "RelativeToolTip": "SuperShopManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:17:38.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

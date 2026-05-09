@@ -1,0 +1,13 @@
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.csproj.AssemblyReference.cache
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.Properties.Resources.resources
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.csproj.GenerateResource.cache
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.csproj.CoreCompileInputs.cache
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\bin\Debug\SuperShopManagement.exe.config
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\bin\Debug\SuperShopManagement.exe
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\bin\Debug\SuperShopManagement.pdb
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.exe
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.pdb
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\bin\Debug\System.Data.SQLite.dll
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\bin\Debug\System.Data.SQLite.xml
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperSho.9531BD17.Up2Date
+F:\SuperShopManagement\SuperShopManagement\SuperShopManagement\obj\Debug\SuperShopManagement.exe.config
